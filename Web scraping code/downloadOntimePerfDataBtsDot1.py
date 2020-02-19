@@ -1,5 +1,5 @@
 #! python3
-# downloadOntimePerfDataBtsDot1.py - Download airline ontime performance dataset from BTS DOT website
+# downloadOntimePerfDataBtsDot1.py - This script is used for downloading airline ontime performance data from the BTS DOT website
 # @author: Syed A.M. Shihab
 
 # *********************************************************
