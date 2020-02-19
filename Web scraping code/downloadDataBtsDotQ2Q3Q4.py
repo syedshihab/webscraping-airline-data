@@ -1,5 +1,5 @@
 #! python3
-# downloadDataBtsDot3.py - Download DB1B Origin-Destination market survey dataset from BTS DOT website
+# downloadDataBtsDotQ2Q3Q4.py - Download DB1B Origin-Destination market survey dataset for the second, third and fourth quarters from the BTS DOT website
 # @author: Syed A.M. Shihab
 
 # ********* The download folder must be empty *************
