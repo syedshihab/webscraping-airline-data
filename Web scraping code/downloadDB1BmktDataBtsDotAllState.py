@@ -1,5 +1,6 @@
 #! python3
-# downloadDB1BmktDataBtsDotAllState.py - Download DB1B Origin-Destination market survey dataset from BTS DOT website
+# downloadDB1BmktDataBtsDotAllState.py - This script is used for downloading DB1B Origin-Destination market survey dataset 
+# for all the states from BTS DOT website
 # @author: Syed A.M. Shihab
 
 # *********************************************************
