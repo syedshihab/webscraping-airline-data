@@ -4,7 +4,7 @@
 
 # ********* The download folder must be empty *************
 
-import time, os, shutil, zipfile # shell utilities; import modules
+import time, os, zipfile # shell utilities; import modules
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 
